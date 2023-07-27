@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BinarySearchEx\BinarySearchEx\bin\Debug\BinarySearchEx.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BinarySearchEx\BinarySearchEx\bin\Debug\BinarySearchEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BinarySearchEx\BinarySearchEx\bin\Debug\BinarySearchEx.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BinarySearchEx\BinarySearchEx\obj\Debug\BinarySearchEx.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BinarySearchEx\BinarySearchEx\obj\Debug\BinarySearchEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BinarySearchEx\BinarySearchEx\obj\Debug\BinarySearchEx.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BinarySearchEx\BinarySearchEx\obj\Debug\BinarySearchEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BinarySearchEx\BinarySearchEx\obj\Debug\BinarySearchEx.pdb
